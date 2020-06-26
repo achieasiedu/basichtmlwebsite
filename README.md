@@ -1,2 +1,2 @@
 # basichtmlwebsite
-A basic HTML website template develop by me as an assignment.
+A basic HTML website template developed by me as an assignment.
