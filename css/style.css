@@ -53,6 +53,14 @@ li a:hover:not(.active){
     margin: 0 230px 0 230px;
 }
 
+#form{
+    margin: 0 230px 0 230px;
+    text-align: center;
+}
+
+#message{
+    font-family: Arial;
+}
 
 .innertext{
     margin: 20px;
@@ -82,9 +90,22 @@ li a:hover:not(.active){
 }
 /* Right column styling ends */
 
-/* footer styling begins */
 
 
+/* about left column styling begins */
+#aboutleftcolumn{
+    float: left;
+    width: 230px;
+    margin-left: -100%;
+    background: #fffb00;
+}
+/* about left column styling ends */
+
+/* news content styling begins */
+#newscontent{
+    text-align: justify;
+}
+/* Footer styling begins */
 #footer{
     clear: left;
     width: 100%;
@@ -94,6 +115,7 @@ li a:hover:not(.active){
     text-align: center;
     padding: 4px;
 }
+/* footer styling ends */
 
 
 /* footer styling ends */
